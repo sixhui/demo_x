@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liuxh/code/demo_gflags/build",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0  -g   -o CMakeFiles/demo_gflags.dir/main.cpp.o -c /home/liuxh/code/demo_gflags/main.cpp",
+  "file": "/home/liuxh/code/demo_gflags/main.cpp"
+}
+]

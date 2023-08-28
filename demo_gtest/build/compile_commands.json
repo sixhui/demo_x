@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liuxh/code/demo_gtest/build",
+  "command": "/usr/bin/g++   -I/include  -g   -o CMakeFiles/demo_gtest.dir/main.cpp.o -c /home/liuxh/code/demo_gtest/main.cpp",
+  "file": "/home/liuxh/code/demo_gtest/main.cpp"
+}
+]

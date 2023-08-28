@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liuxh/code/demo_opencv/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/opencv4/include/opencv4  -g   -o CMakeFiles/demo_opencv.dir/main.cpp.o -c /home/liuxh/code/demo_opencv/main.cpp",
+  "file": "/home/liuxh/code/demo_opencv/main.cpp"
+}
+]

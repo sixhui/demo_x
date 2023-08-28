@@ -1,0 +1,5 @@
+/home/liuxh/code/demo_opencv/build/CMakeFiles/edit_cache.dir
+/home/liuxh/code/demo_opencv/build/CMakeFiles/rebuild_cache.dir
+/home/liuxh/code/demo_opencv/build/CMakeFiles/package.dir
+/home/liuxh/code/demo_opencv/build/CMakeFiles/package_source.dir
+/home/liuxh/code/demo_opencv/build/CMakeFiles/demo_opencv.dir

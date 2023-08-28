@@ -1,0 +1,3 @@
+/home/liuxh/code/demo_gflags/build/CMakeFiles/rebuild_cache.dir
+/home/liuxh/code/demo_gflags/build/CMakeFiles/edit_cache.dir
+/home/liuxh/code/demo_gflags/build/CMakeFiles/demo_gflags.dir

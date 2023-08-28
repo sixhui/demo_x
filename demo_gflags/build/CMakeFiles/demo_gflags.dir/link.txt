@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/demo_gflags.dir/main.cpp.o  -o demo_gflags  -Wl,-rpath,/usr/local/lib /usr/local/lib/libgflags.so.2.2.2 -lpthread 

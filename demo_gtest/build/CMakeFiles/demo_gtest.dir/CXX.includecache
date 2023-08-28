@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuxh/code/demo_gtest/main.cpp
+iostream
+-
+gtest/gtest.h
+/home/liuxh/code/demo_gtest/gtest/gtest.h
+

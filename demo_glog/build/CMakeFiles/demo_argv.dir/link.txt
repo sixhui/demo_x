@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG  -rdynamic CMakeFiles/demo_argv.dir/demo_argv.cpp.o  -o demo_argv 

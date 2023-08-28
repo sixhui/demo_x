@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/liuxh/code/demo_glog/build",
+  "command": "/usr/bin/g++    -O3 -DNDEBUG   -o CMakeFiles/demo_argv.dir/demo_argv.cpp.o -c /home/liuxh/code/demo_glog/demo_argv.cpp",
+  "file": "/home/liuxh/code/demo_glog/demo_argv.cpp"
+},
+{
+  "directory": "/home/liuxh/code/demo_glog/build",
+  "command": "/usr/bin/g++  -DGFLAGS_IS_A_DLL=0  -O3 -DNDEBUG   -o CMakeFiles/demo_glog.dir/demo_glog.cpp.o -c /home/liuxh/code/demo_glog/demo_glog.cpp",
+  "file": "/home/liuxh/code/demo_glog/demo_glog.cpp"
+}
+]

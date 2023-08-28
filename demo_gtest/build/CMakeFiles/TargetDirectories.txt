@@ -1,0 +1,5 @@
+/home/liuxh/code/demo_gtest/build/CMakeFiles/edit_cache.dir
+/home/liuxh/code/demo_gtest/build/CMakeFiles/package_source.dir
+/home/liuxh/code/demo_gtest/build/CMakeFiles/rebuild_cache.dir
+/home/liuxh/code/demo_gtest/build/CMakeFiles/package.dir
+/home/liuxh/code/demo_gtest/build/CMakeFiles/demo_gtest.dir
